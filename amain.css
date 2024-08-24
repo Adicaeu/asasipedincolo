@@ -1,0 +1,87 @@
+body {
+background-image: url('https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149158562.jpg?size=626&ext=jpg&ga=GA1.1.508533312.1721119304&semt=ais_user');
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+font-family: ProFont, monospace;
+}
+
+h1 {
+color: white;
+font-size: 64px;
+text-align: center;
+margin-top: 2%;
+letter-spacing: 5px;
+word-spacing: -25px;
+}
+
+p {
+font-size: 18px;
+color: white;
+text-indent: 65px;
+margin: 0px 65px 80px 65px;
+}
+ 
+a {
+margin: 65px;
+}
+
+.box {
+width: 426px;
+height: 260px;
+background-color: #E0E0E0;
+margin-left: 65px;
+text-align: left;
+padding-top: 4px;
+margin-bottom: 25px; 
+}
+
+
+#three {
+float: left;
+}
+
+#two {
+float: left;
+}
+
+#one {
+float: left;
+margin-left: 65px;
+}
+
+.clear {
+clear: both;
+}
+
+.clear a {
+mergin-left: 30px;
+margin-top: 20px;
+}
+
+
+img {
+margin: 10px;
+float: right;
+}
+
+.text {
+width: 326px;
+height: 260px;
+clear: left;
+}
+
+ul {
+list-style: disc outside url('https://cdn4.iconfinder.com/data/icons/24x24-free-pixel-icons/24/Color_wheel.png');
+}
+
+li {
+font-size: 32px;
+line-height: 36px;
+text-transform: capitalize;
+}
+
+
+
+
+

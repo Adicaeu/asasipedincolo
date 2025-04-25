@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://adicaeu.github.io/asasipedincolo/sitemap.xml

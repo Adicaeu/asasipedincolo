@@ -177,9 +177,8 @@
     text-align: right;
 }
 
-.middle-test h1 {
+.middle-test h2 {
     text-align: right;
-    
     margin-right: 60px;
     font-size: 34px;
 }
@@ -222,7 +221,7 @@
     color: #e1dcfd;
 }
 
-.bottom-boxes h1 {
+.bottom-boxes h3 {
     font-size: 124px;
     color: #7070704d; 
 }

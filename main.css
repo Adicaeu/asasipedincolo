@@ -311,27 +311,26 @@ hr:nth-of-type(1) {
     opacity: 0.4;
 }
 
-.secondary h1 {
+/*.secondary h3 {
     font-family: "Sora", sans-serif; 
     font-weight: bolder;
     font-size: 48px; 
     line-height: 64px;
-}
+}*/
 
-.middle-text h1 {
+.middle-text h3 {
     font-size: 64px;
     margin-left: 30px;
     margin-top: -15px;
+    font-family: "Sora", sans-serif; 
+    font-weight: bolder;
+    line-height: 64px;
+    text-align: right;
 }
 
 .quote-icon {
     color: #592FFF;
     font-size: 64px;
-}
-
-
-.middle-text {
-    text-align: right;
 }
 
 .middle-text p {

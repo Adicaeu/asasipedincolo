@@ -310,7 +310,7 @@ hr:nth-of-type(1) {
     height: 460px;
     margin-top: 50px;
     opacity: 0.4;
-    margin-left: 40px;
+    margin-left: 60px;
 }
 
 /*.secondary h3 {
@@ -327,7 +327,7 @@ hr:nth-of-type(1) {
     font-weight: bolder;
     line-height: 64px;
     text-align: right;
-    margin-right: 40px;
+    margin-right: 60px;
 }
 
 .quote-icon {

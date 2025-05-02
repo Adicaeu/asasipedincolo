@@ -311,14 +311,14 @@ hr:nth-of-type(1) {
     margin-left: 40px;
 }
 
-.secondary h1 {
+.secondary h3 {
     font-family: "Sora", sans-serif; 
     font-weight: bolder;
     font-size: 48px; 
     line-height: 64px;
 }
 
-.middle-text h1 {
+.middle-text h3 {
     font-size: 64px;
     margin-left: 30px;
     margin-top: -15px;

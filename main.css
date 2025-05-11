@@ -175,13 +175,13 @@
 .middle-test {
     display: block;
     text-align: right;
+    margin-right: 20px;
 }
 
-.middle-test h1 {
+.middle-test h2 {
     text-align: right;
-    
-    margin-right: 60px;
     font-size: 34px;
+    margin-right: 20px;
 }
 
 .middle-test button {
@@ -222,7 +222,7 @@
     color: #e1dcfd;
 }
 
-.bottom-boxes h1 {
+.bottom-boxes h3 {
     font-size: 124px;
     color: #7070704d; 
 }
@@ -307,18 +307,18 @@ hr:nth-of-type(1) {
     width: 680px;
     height: 460px;
     margin-top: 50px;
-    margin-left: 40px;
     opacity: 0.4;
+    margin-left: 40px;
 }
 
-.secondary h1 {
+.secondary h3 {
     font-family: "Sora", sans-serif; 
     font-weight: bolder;
     font-size: 48px; 
     line-height: 64px;
 }
 
-.middle-text h1 {
+.middle-text h3 {
     font-size: 64px;
     margin-left: 30px;
     margin-top: -15px;
@@ -328,7 +328,6 @@ hr:nth-of-type(1) {
     color: #592FFF;
     font-size: 64px;
 }
-
 
 .middle-text {
     text-align: right;
